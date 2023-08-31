@@ -1,0 +1,8 @@
+scrapy
+beautifulsoup4
+selenium
+pandas
+numpy==1.21.5
+requests
+lxml
+ipykernel
